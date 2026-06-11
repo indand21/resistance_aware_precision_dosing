@@ -27,15 +27,13 @@ infection-model studies. It is instantiated on the topoisomerase-resistance land
 │   │                            → figures/section64_figures.png       [needs data/]
 │   ├── section7_extensions.py   soft-MPC, pharyngeal scaling check, gepotidacin cross-resistance,
 │   │                            structure-informed prior
-│   ├── section6_hfim_validation.py  external validation vs hollow-fiber infection-model studies
-│   │                            → figures/section66_hfim_validation.png
-│   └── graphical_abstract.py    graphical-abstract figure → figures/graphical_abstract.png
+│   └── section6_hfim_validation.py  external validation vs hollow-fiber infection-model studies
+│                                → figures/section66_hfim_validation.png
 ├── data/                       Input datasets — NOT redistributed here; see data/README.md
 └── figures/                    Generated figures (regenerable from code/)
     ├── section5_figures.png
     ├── section64_figures.png
-    ├── section66_hfim_validation.png
-    └── graphical_abstract.png
+    └── section66_hfim_validation.png
 ```
 
 ## Requirements
