@@ -95,3 +95,13 @@ can be moved or renamed without editing any paths.
   63(6):e02604-18 (PMID 30373802).
 
 See `data/README.md` for download instructions.
+
+## Citation
+
+If you use this code, please cite it via `CITATION.cff` (GitHub's "Cite this repository"
+button). The associated manuscript is listed there as the preferred citation; update its
+journal/DOI once published.
+
+## License
+
+Released under the MIT License — see [LICENSE](LICENSE).

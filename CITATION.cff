@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Resistance-aware precision dosing: analysis and validation code"
+abstract: >-
+  Analysis and validation code that reframes the mutant prevention concentration
+  (MPC) and the mutant-selection window (MSW) as predictions of a fitted
+  genotype-to-(MIC, fitness) model with propagated uncertainty, couples the map to
+  a Hill pharmacodynamic function and a pharmacokinetic model in closed form, and
+  validates the predictions against hollow-fiber infection-model data. Instantiated
+  on Neisseria gonorrhoeae and the spiropyrimidinetrione zoliflodacin.
+type: software
+authors:
+  - given-names: Anand
+    family-names: Srinivasan
+    email: anandsrinivasan@aiimsbhubaneswar.edu.in
+    affiliation: "Department of Pharmacology, All India Institute of Medical Sciences (AIIMS) Bhubaneswar, Odisha, India"
+  - given-names: Abhishek
+    family-names: Anil
+    affiliation: "Department of Pharmacology, All India Institute of Medical Sciences (AIIMS) Bhubaneswar, Odisha, India"
+  - given-names: Archana
+    family-names: AS
+    affiliation: "Department of Pharmacology, All India Institute of Medical Sciences (AIIMS) Bhubaneswar, Odisha, India"
+  - given-names: Divya
+    family-names: V
+    affiliation: "Department of Pharmacology, All India Institute of Medical Sciences (AIIMS) Bhubaneswar, Odisha, India"
+repository-code: "https://github.com/indand21/resistance_aware_precision_dosing"
+license: MIT
+version: 1.0.0
+date-released: "2026-06-11"
+keywords:
+  - antimicrobial resistance
+  - mutant selection window
+  - mutant prevention concentration
+  - zoliflodacin
+  - Neisseria gonorrhoeae
+  - pharmacokinetics-pharmacodynamics
+  - genotype-phenotype map
+preferred-citation:
+  type: article
+  title: "Genotype-informed mutant prevention concentration and selection window for zoliflodacin in Neisseria gonorrhoeae: a modeling and external-validation study"
+  year: 2026
+  authors:
+    - given-names: Anand
+      family-names: Srinivasan
+    - given-names: Abhishek
+      family-names: Anil
+    - given-names: Archana
+      family-names: AS
+    - given-names: Divya
+      family-names: V
+  notes: "Manuscript under review; update journal, volume, and DOI on publication."
