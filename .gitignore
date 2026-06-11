@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+.vscode/
+.idea/
+
+# Raw input datasets are not redistributed here (see data/README.md for sources)
+data/*.csv
+data/*.tsv
